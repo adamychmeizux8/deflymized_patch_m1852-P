@@ -5,7 +5,7 @@ ui_print("Meizu M1852 DeFlymized Project Patch");
 ui_print("Android Version: 9");
 ui_print("Vendor: F7.3.0.0G");
 ui_print("!!!!USE ONLY WITH PHH GSI!!!!");
-ui_print("Patch version: 0.1(beta1)");
+ui_print("Patch version: {res_ver=branch}");
 ui_print("------------------------------------");
 ui_print("");
 ui_print("Installing kernel with MTP and Magisk built-in...");
